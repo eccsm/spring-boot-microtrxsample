@@ -1,0 +1,8 @@
+{
+	"name":"microtransaction",
+	"buildpacks":[
+		{
+			"url":"heroku/gradle"
+		}
+	]
+}
